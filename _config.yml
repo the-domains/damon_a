@@ -1,7 +1,7 @@
 name: Damon_A
 favicon: null
-layout_spectrum: 0.1699601912405342
-typography_spectrum: 0.6482496990356594
+layout_spectrum: 0
+typography_spectrum: 0.61013
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.321106564020738
-  lightness: 0.7498932629823685
-  saturation: 0.8877645132597536
-  rhythmicContrast: 0.1808262642007321
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
