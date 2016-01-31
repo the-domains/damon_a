@@ -1,0 +1,28 @@
+name: Damon_A
+favicon: null
+layout_spectrum: 0.1699601912405342
+typography_spectrum: 0.6482496990356594
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.321106564020738
+  lightness: 0.7498932629823685
+  saturation: 0.8877645132597536
+  rhythmicContrast: 0.1808262642007321
+purpose: []
