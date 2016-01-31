@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Damon_A]]></title>
         <description><![CDATA[Damon_A]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/damon_a/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 22:46:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 22:49:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/damon_a/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Do the Work.</p>]]></description>
-            <link>undefined5317bb52-0a92-4609-8e43-cffad560aeb3/index.html</link>
+            <description><![CDATA[<p>Find the Process.</p>]]></description>
+            <link>https://thegrid.ai/damon_a/5317bb52-0a92-4609-8e43-cffad560aeb3/index.html</link>
             <guid isPermaLink="false">5317bb52-0a92-4609-8e43-cffad560aeb3</guid>
-            <pubDate>Sun, 31 Jan 2016 22:46:26 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 22:49:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
